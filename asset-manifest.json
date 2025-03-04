@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/swapniltamse/spa-website-coffee-bagel/static/css/main.92c8d4eb.css",
-    "main.js": "/swapniltamse/spa-website-coffee-bagel/static/js/main.b96ca0a5.js",
-    "static/js/453.7953e6eb.chunk.js": "/swapniltamse/spa-website-coffee-bagel/static/js/453.7953e6eb.chunk.js",
-    "index.html": "/swapniltamse/spa-website-coffee-bagel/index.html",
-    "main.92c8d4eb.css.map": "/swapniltamse/spa-website-coffee-bagel/static/css/main.92c8d4eb.css.map",
-    "main.b96ca0a5.js.map": "/swapniltamse/spa-website-coffee-bagel/static/js/main.b96ca0a5.js.map",
-    "453.7953e6eb.chunk.js.map": "/swapniltamse/spa-website-coffee-bagel/static/js/453.7953e6eb.chunk.js.map"
+    "main.css": "/spa-website-coffee-bagel/static/css/main.92c8d4eb.css",
+    "main.js": "/spa-website-coffee-bagel/static/js/main.e7556e88.js",
+    "static/js/453.7953e6eb.chunk.js": "/spa-website-coffee-bagel/static/js/453.7953e6eb.chunk.js",
+    "index.html": "/spa-website-coffee-bagel/index.html",
+    "main.92c8d4eb.css.map": "/spa-website-coffee-bagel/static/css/main.92c8d4eb.css.map",
+    "main.e7556e88.js.map": "/spa-website-coffee-bagel/static/js/main.e7556e88.js.map",
+    "453.7953e6eb.chunk.js.map": "/spa-website-coffee-bagel/static/js/453.7953e6eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92c8d4eb.css",
-    "static/js/main.b96ca0a5.js"
+    "static/js/main.e7556e88.js"
   ]
 }
