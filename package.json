@@ -1,0 +1,24 @@
+{
+  "name": "spa-website-coffee-bagel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapniltamse/spa-website-coffee-bagel.git"
+  },
+  "keywords": [
+    "spa",
+    "website",
+    "simple-site"
+  ],
+  "author": "swapnil tamse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swapniltamse/spa-website-coffee-bagel/issues"
+  },
+  "homepage": "https://github.com/swapniltamse/spa-website-coffee-bagel#readme",
+  "description": ""
+}
